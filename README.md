@@ -1,6 +1,6 @@
 # Bills counter
 
-> A challenge for accounting available bills
+> A challenge for tracking available bills
 
 ![SCREENSHOT](/img/sc.jpg)
 
