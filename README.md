@@ -4,7 +4,7 @@
 
 ![SCREENSHOT](/img/sc.jpg)
 
-In this challenge, I need to buy a tracker for bills.  People are on a queue each with only one bill of 25, 50, or 100 denomination. The tracker needs to check if there will be available change for all the people if the queue.
+In this challenge, I need to build a tracker for bills.  People are in a queue each with only one bill of 25, 50, or 100 denomination. The tracker needs to check if there will be available change for all the people if the queue.
 
 The method accepts an array of people with bills, and returns `true` or `false`.
 
